@@ -43,7 +43,7 @@ Here is a list of some projects that I made:
   <img src="https://github.com/cub-tor/cub-tor/assets/90109229/6dc0a918-3260-4368-b935-4e2f5c6af88f" width="400">
 
   
-- [Búsqueda Bibliográfica](http://tareadwes.atwebpages.com/public/libros/consultar) : To practice Ajax, I made this app to look for a book by its title, writing a letter or a few letters in the form. Then a list of matches is showed. Built with PHP and HTML, using Laravel.
+- [Búsqueda Bibliográfica](http://tareadwes.atwebpages.com/public/libros/consultar) : To practice Ajax, I made this app to look for a book by its title, writing a letter or a few letters in the form. Then a list of matches is shown. Built with PHP and HTML, using Laravel.
   
   Source code: (https://github.com/cub-tor/book-searching/tree/main)
 
