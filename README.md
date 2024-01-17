@@ -51,6 +51,17 @@ Here is a list of some projects that I made:
   <img src="https://github.com/cub-tor/book-searching/assets/90109229/54654ec6-b870-46ee-8374-52ad29abe5df" width="400">
 
 
+
+- <ins>Gestión de Departamentos</ins> : A simple desktop application to display CRUD operations related to the management of company departments. I used NetBeans, Java and a MySQL database.
+  
+  Source code:  (https://github.com/cub-tor/department-management)
+
+ 
+ <img src="https://github.com/cub-tor/cub-tor/assets/90109229/d1f950c3-b8ff-4c30-98e0-7e2dda00b6b5" alt="image" width="400" height="300">
+
+
+
+
 I'll add more projects as I finsih them 😊
 
 ## How to reach me
