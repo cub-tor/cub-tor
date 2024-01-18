@@ -16,7 +16,8 @@ Here is a list of some projects that I made:
 
 
 
-- [Quiz Científico (second version)](https://quiz-2023-385907.web.app/) : The same quiz as before, but questions and answers are stored in a SQL database, as well as the player's name and punctuation. I used the firebase service of login, and JavaScript to make the app. The frontend is built with Vue.js and the backend, with Node.js
+- [Quiz Científico (second version)](https://quiz-2023-385907.web.app/) : The same quiz as before, but questions and answers are stored in a SQL database, as well as the player's name and punctuation. I used the firebase service of login, and JavaScript to make the app. The frontend is built with Vue.js and the backend, with Node.js<br>
+  <p style="color:red">Unfortunately, this website is not working due to problems with the hosting service that I'll try to solve as soon as possible.</p>
   
   Source code:  Frontend (https://github.com/cub-tor/quiz/tree/quiz-front) and Backend (https://github.com/cub-tor/quiz/tree/quiz-BBDD)
 
