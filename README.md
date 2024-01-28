@@ -17,7 +17,7 @@ Here is a list of some projects that I made:
  I would like to thank my friends [@sagilca](https://github.com/sagilca) and [@jordibc](https://github.com/jordibc) for their contributions. They helped me with the project theme and allowed me to use the questions and answers they created ❤
 
 
-- Quiz Científico (second version) : The same quiz as before, but questions and answers are stored in a SQL database, as well as the player's name and punctuation (this app is not deployed). I used the firebase service of login, and JavaScript to make the app. The frontend is built with Vue.js and the backend, with Node.js<br>
+- <ins>Quiz Científico (second version)</ins> : The same quiz as before, but questions and answers are stored in a SQL database, as well as the player's name and punctuation (this app is not deployed). I used the firebase service of login, and JavaScript to make the app. The frontend is built with Vue.js and the backend, with Node.js<br>
    
   Source code:  Frontend (https://github.com/cub-tor/quiz/tree/quiz-front) and Backend (https://github.com/cub-tor/quiz/tree/quiz-BBDD)
 
