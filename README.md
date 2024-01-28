@@ -14,19 +14,16 @@ Here is a list of some projects that I made:
 
   <img src="https://github.com/cub-tor/cub-tor/assets/90109229/215364bb-a521-4d68-8883-6e2c2429ae23" width="300">
 
+ I would like to thank my friends [@sagilca](https://github.com/sagilca) and [@jordibc](https://github.com/jordibc) for their contributions. They helped me with the project theme and allowed me to use the questions and answers they created ❤
 
 
-- [Quiz Científico (second version)](https://quiz-2023-385907.web.app/) : The same quiz as before, but questions and answers are stored in a SQL database, as well as the player's name and punctuation. I used the firebase service of login, and JavaScript to make the app. The frontend is built with Vue.js and the backend, with Node.js<br>
-  <p style="color:red">Unfortunately, this website is not working due to problems with the hosting service that I'll try to solve as soon as possible.</p>
-  
+- [Quiz Científico (second version)] : The same quiz as before, but questions and answers are stored in a SQL database, as well as the player's name and punctuation (this app is not deployed). I used the firebase service of login, and JavaScript to make the app. The frontend is built with Vue.js and the backend, with Node.js<br>
+   
   Source code:  Frontend (https://github.com/cub-tor/quiz/tree/quiz-front) and Backend (https://github.com/cub-tor/quiz/tree/quiz-BBDD)
 
  
   <img src="https://github.com/cub-tor/cub-tor/assets/90109229/d782999b-6a47-49fa-abca-2515ffbf1c6a" width="300">
-
-  I would like to thank my friends [@sagilca](https://github.com/sagilca) and [@jordibc](https://github.com/jordibc) for their contributions. They helped me with the project theme and allowed me to use the questions and answers they created ❤
-
-
+  
 
 - [Formulario de Registro](https://canciones-autor.web.app/) : A form where you can write a list of songs, their authors and audio formats. It is made with Typescript using Angular.
   
@@ -53,7 +50,7 @@ Here is a list of some projects that I made:
 
 
 
-- <ins>Gestión de Departamentos</ins> : A simple desktop application to display CRUD operations related to the management of company departments. I used NetBeans, Java and a MySQL database.
+- <ins>Gestión de Departamentos</ins> : A simple desktop application to display CRUD operations related to the management of company departments. I used NetBeans, Java and a MySQL database (this app is not deployed).
   
   Source code:  (https://github.com/cub-tor/department-management)
 
