@@ -8,6 +8,15 @@ I'm Elsa and I'm a junior developer.
 
 Here is a list of some projects that I made:
 
+- [Eco-Friendly Vehicle Check](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/80640636525616/3853880937778113/7881917116438212/latest.html) : A Logistic Regression model is trained to predict the compliance of vehicle CO<sub>2</sub> emissions with European environmental regulations. The dataset used is ‘Real-world vehicle emissions’, created by Konrad Banachewicz and published on Kaggle. <br>
+It was made using Databricks and PySpark.
+  
+  
+  <img src="https://github.com/cub-tor/cub-tor/assets/90109229/fa1dcfc6-765e-4484-b0c8-24673906a791" width="300">
+
+
+
+
 - [Quiz Científico](https://s33dx.csb.app/) : This a scientific quiz where questions and answers are stored in a JSON. I used HTML, CSS and JavaScript to build it.
   
   Source code: (https://github.com/cub-tor/quiz/tree/main)
@@ -55,7 +64,7 @@ Here is a list of some projects that I made:
   Source code:  (https://github.com/cub-tor/department-management)
 
  
- <img src="https://github.com/cub-tor/cub-tor/assets/90109229/d1f950c3-b8ff-4c30-98e0-7e2dda00b6b5" alt="image" width="400" height="300">
+ <img src="https://github.com/cub-tor/cub-tor/assets/90109229/d1f950c3-b8ff-4c30-98e0-7e2dda00b6b5" alt="image" width="300" height="200">
 
 
 
